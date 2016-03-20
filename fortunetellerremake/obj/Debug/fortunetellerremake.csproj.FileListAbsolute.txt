@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fortunetellerremake\fortunetellerremake\bin\Debug\fortunetellerremake.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fortunetellerremake\fortunetellerremake\obj\Debug\fortunetellerremake.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fortunetellerremake\fortunetellerremake\bin\Debug\fortunetellerremake.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fortunetellerremake\fortunetellerremake\bin\Debug\fortunetellerremake.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fortunetellerremake\fortunetellerremake\obj\Debug\fortunetellerremake.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fortunetellerremake\fortunetellerremake\obj\Debug\fortunetellerremake.pdb
