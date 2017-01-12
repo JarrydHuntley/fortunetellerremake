@@ -4,3 +4,21 @@ c:\users\wecancodeit\documents\visual studio 2015\Projects\fortunetellerremake\f
 c:\users\wecancodeit\documents\visual studio 2015\Projects\fortunetellerremake\fortunetellerremake\bin\Debug\fortunetellerremake.pdb
 c:\users\wecancodeit\documents\visual studio 2015\Projects\fortunetellerremake\fortunetellerremake\obj\Debug\fortunetellerremake.exe
 c:\users\wecancodeit\documents\visual studio 2015\Projects\fortunetellerremake\fortunetellerremake\obj\Debug\fortunetellerremake.pdb
+C:\Users\drviv\Desktop\WCCI Boot Camp Stuff\Visual Studio 2015\Projects\fortunetellerremake\fortunetellerremake\bin\Debug\fortunetellerremake.exe.config
+C:\Users\drviv\Desktop\WCCI Boot Camp Stuff\Visual Studio 2015\Projects\fortunetellerremake\fortunetellerremake\obj\Debug\fortunetellerremake.exe
+C:\Users\drviv\Desktop\WCCI Boot Camp Stuff\Visual Studio 2015\Projects\fortunetellerremake\fortunetellerremake\obj\Debug\fortunetellerremake.pdb
+C:\Users\drviv\Desktop\WCCI Boot Camp Stuff\Visual Studio 2015\Projects\fortunetellerremake\fortunetellerremake\bin\Debug\fortunetellerremake.exe
+C:\Users\drviv\Desktop\WCCI Boot Camp Stuff\Visual Studio 2015\Projects\fortunetellerremake\fortunetellerremake\bin\Debug\fortunetellerremake.pdb
+C:\Users\drviv\Desktop\WCCI Boot Camp Stuff\Visual Studio 2015\Projects\fortunetellerremake\fortunetellerremake\obj\Debug\fortunetellerremake.csprojResolveAssemblyReference.cache
+C:\Users\drviv\Desktop\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\fortunetellerremake\fortunetellerremake\bin\Debug\fortunetellerremake.exe.config
+C:\Users\drviv\Desktop\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\fortunetellerremake\fortunetellerremake\obj\Debug\fortunetellerremake.exe
+C:\Users\drviv\Desktop\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\fortunetellerremake\fortunetellerremake\obj\Debug\fortunetellerremake.pdb
+C:\Users\drviv\Desktop\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\fortunetellerremake\fortunetellerremake\bin\Debug\fortunetellerremake.exe
+C:\Users\drviv\Desktop\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\fortunetellerremake\fortunetellerremake\bin\Debug\fortunetellerremake.pdb
+C:\Users\drviv\Desktop\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\fortunetellerremake\fortunetellerremake\obj\Debug\fortunetellerremake.csprojResolveAssemblyReference.cache
+C:\Users\drviv\Desktop\WCCIBootCamp\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\fortunetellerremake\fortunetellerremake\bin\Debug\fortunetellerremake.exe.config
+C:\Users\drviv\Desktop\WCCIBootCamp\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\fortunetellerremake\fortunetellerremake\obj\Debug\fortunetellerremake.exe
+C:\Users\drviv\Desktop\WCCIBootCamp\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\fortunetellerremake\fortunetellerremake\obj\Debug\fortunetellerremake.pdb
+C:\Users\drviv\Desktop\WCCIBootCamp\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\fortunetellerremake\fortunetellerremake\bin\Debug\fortunetellerremake.exe
+C:\Users\drviv\Desktop\WCCIBootCamp\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\fortunetellerremake\fortunetellerremake\bin\Debug\fortunetellerremake.pdb
+C:\Users\drviv\Desktop\WCCIBootCamp\DanielsStuffFromBootcamp\Visual Studio 2015\Projects\fortunetellerremake\fortunetellerremake\obj\Debug\fortunetellerremake.csprojResolveAssemblyReference.cache
